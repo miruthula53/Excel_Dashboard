@@ -1,7 +1,7 @@
 # HR Analytics Dashboard (Excel)
 
 An interactive Excel dashboard built from a messy HR dataset of 290 employee records. It covers data cleaning, PivotTables, PivotCharts, KPI cards and slicers.
-![Dashboard](dashboard.png)
+![Dashboard](https://github.com/miruthula53/Excel_Dashboard/blob/main/Excel_Dashboard.png)
 
 ## Objective
 Turn raw HR data into a one-page dashboard that shows workforce size, pay, hiring trends and diversity at a glance.
